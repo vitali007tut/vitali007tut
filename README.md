@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-shop/christmas-shop/)
+🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
 
 
 <!--
