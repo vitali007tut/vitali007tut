@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
+- 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
+- ⚛ [Forum](https://jazzy-seahorse-2c7c6f.netlify.app/)
+- ⚛ [React](https://deploy-preview-13--amazing-monstera-35e18a.netlify.app/)
 
 
 <!--
