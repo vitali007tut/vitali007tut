@@ -2,8 +2,9 @@
 
 
 - 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
+- 🗒 [ToDo React](https://vitali007tut.github.io/ToDoReact/)
 - ⚛ [Forum](https://jazzy-seahorse-2c7c6f.netlify.app/)
-- ⚛ [React](https://deploy-preview-13--amazing-monstera-35e18a.netlify.app/)
+- ⚛ [Search Images React](https://deploy-preview-13--amazing-monstera-35e18a.netlify.app/)
 
 
 <!--
