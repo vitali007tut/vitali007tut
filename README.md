@@ -7,6 +7,7 @@
 - ⚛ [Search Images API](https://deploy-preview-13--amazing-monstera-35e18a.netlify.app/)
 - [CSS Bayan memes](https://vitali007tut.github.io/cssBayan/cssBayan/index.html)
 - [Minesweeper](https://vitali007tut.github.io/minesweeper/)
+- [Virtual keyboard](https://vitali007tut.github.io/virtual-keyboard/)
 
 
 <!--
