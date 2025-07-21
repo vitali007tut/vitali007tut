@@ -1,7 +1,4 @@
-
-<img src="[https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.svg](https://raw.githubusercontent.com/vitali007tut/audioForMomentum/refs/heads/main/banner.svg)" alt="Vitali Banner" />
-## Hi there 👋
-
+<img src="https://raw.githubusercontent.com/vitali007tut/audioForMomentum/refs/heads/main/banner.svg" alt="Vitali Banner" />
 
 - 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
 - 🗒 [ToDo React](https://vitali007tut.github.io/ToDoReact/)
