@@ -32,6 +32,7 @@
 
 ## 🧪 Side Projects
 
+- 🔢 [Numbers & Dates Fact App](https://rococo-bienenstitch-d12ff4.netlify.app/)
 - 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
 - 🗒 [ToDo React](https://vitali007tut.github.io/ToDoReact/)
 - ⚛ [Forum (Users, Posts, Comments, Favorites, REST)](https://jazzy-seahorse-2c7c6f.netlify.app/)
