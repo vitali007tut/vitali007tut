@@ -30,7 +30,7 @@
 
 ---
 
-## 🧪 Side Projects
+## 🧪 Projects
 
 - 🔢 [Numbers & Dates Fact App](https://rococo-bienenstitch-d12ff4.netlify.app/)
 - 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
