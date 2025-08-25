@@ -1,5 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=onedark&text=Frontend%20developer&descAlign=19&reversal=false&textBg=false&fontAlignY=30&descAlignY=23&fontSize=40&fontAlign=70"
-    alt="Header image"/>
+ ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Frontend%20developer&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## 🚧 Tech Stack
 
