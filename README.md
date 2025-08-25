@@ -1,3 +1,6 @@
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=onedark&text=Frontend%20developer&descAlign=19&reversal=false&textBg=false&fontAlignY=30&descAlignY=23&fontSize=40&fontAlign=70"
+    alt="Header image"/>
+
 ## 🚧 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
@@ -32,11 +35,11 @@
 
 ## 🧪 Projects
 
+- ⚛ [Forum (Users, Posts, Comments, Favorites, REST)](https://vitali007tut.github.io/forum/)
 - 🔢 [Numbers & Dates Fact App](https://rococo-bienenstitch-d12ff4.netlify.app/)
 - 🎄 [Christmas gifts](https://vitali007tut.github.io/christmas-gifts/christmas-shop/)
 - 👽 [Martians Login Form](https://vitali007tut.github.io/martians-login-form/)
 - 🗒 [ToDo React](https://vitali007tut.github.io/ToDoReact/)
-- ⚛ [Forum (Users, Posts, Comments, Favorites, REST)](https://jazzy-seahorse-2c7c6f.netlify.app/)
 - ⚛ [Search Images API](https://deploy-preview-13--amazing-monstera-35e18a.netlify.app/)
 - 😂 [CSS Bayan memes](https://vitali007tut.github.io/cssBayan/cssBayan/index.html)
 - 🧨 [Minesweeper](https://vitali007tut.github.io/minesweeper/)
